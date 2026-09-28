@@ -7,8 +7,6 @@ Ce rapport analyse les déterminants et l'évolution du chômage au Maroc entre 
 
 Bien que l'économie marocaine ait créé **193 000 postes d'emploi nets** sur la période et que le taux de chômage national ait connu une légère baisse en passant de **13,3% à 13,0%**, le chômage demeure structurellement très élevé et s'aggrave chez certaines catégories clés de la population.
 
----
-
 ## 2. Analyse des Chiffres et Données Concrètes (Source : HCP)
 
 ### A. Une vulnérabilité critique des jeunes et des diplômés
@@ -24,14 +22,10 @@ Bien que l'économie marocaine ait créé **193 000 postes d'emploi nets** sur l
 - Le secteur **"Agriculture, forêt et pêche"** a perdu **41 000 postes d'emploi** sur la période, sous l'effet des sécheresses répétées.
 - Le **sous-emploi** (travail à durée insuffisante ou avec un revenu inadéquat) a augmenté pour toucher **1 190 000 personnes**, soit un taux de **10,9%** (contre 10,1% en 2024).
 
----
-
 ## 3. Causes Principales de la Stagnation du Chômage
 1. **L'inadéquation formation-emploi :** Les diplômes délivrés ne correspondent pas toujours aux besoins immédiats des entreprises et du secteur privé.
 2. **L'impact des chocs climatiques :** La dépendance de l'économie rurale aux précipitations entraîne des destructions régulières d'emplois agricoles non rémunérés ou saisonniers.
 3. **Une création d'emplois insuffisante :** Les créations d'emplois dans les services (+123 000) et le BTP (+64 000) ne suffisent pas à éponger l'arrivée massive des jeunes primo-demandeurs sur le marché du travail.
-
----
 
 ## 4. Source des Données
 - **Organisme :** Haut-Commissariat au Plan (HCP), Royaume du Maroc.
